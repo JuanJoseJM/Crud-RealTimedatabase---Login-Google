@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1084996912393",
+    "firebase_url": "https://crudrealtime-bc212-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "crudrealtime-bc212",
+    "storage_bucket": "crudrealtime-bc212.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084996912393:android:87a952ad42b1cee3c1bfd8",
+        "android_client_info": {
+          "package_name": "com.example.crudrealdatabaselogingoogle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzlzg5ofENpeR-PhBzP5t6r49_i56Pkos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084996912393:android:423864a1c1b3bbddc1bfd8",
+        "android_client_info": {
+          "package_name": "com.example.crudrealtime090125"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzlzg5ofENpeR-PhBzP5t6r49_i56Pkos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084996912393:android:1a652c3445383318c1bfd8",
+        "android_client_info": {
+          "package_name": "com.practica.crudrealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzlzg5ofENpeR-PhBzP5t6r49_i56Pkos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
